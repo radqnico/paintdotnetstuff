@@ -10,7 +10,7 @@ I'm a programmer but i use Paint.NET for personal purposes.
 
 - Have Paint.NET installed.
 
-### Installing
+## Installing
 
 Everything i upload here have different installation methods, so you can find a list below with all the info you need.
 
