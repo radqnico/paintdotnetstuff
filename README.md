@@ -12,18 +12,10 @@ I'm a programmer but i use Paint.NET for personal purposes.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Everything i upload here have different installation methods, so you can find a list below with all the info you need.
 
-Say what the step will be
+#### Installing Palettes
 
-```
-Give the example
-```
+To install a palette you need to open the Colors window, head to the "Manage color palettes" and click on the "Open palettes folder" button. There is where you put the `.txt` palettes files. __Next you'll need to click on the "More" button to see the entire palette.__
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+![Installing Palettes](/imgs/palettes.png)
